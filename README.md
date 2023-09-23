@@ -5,7 +5,7 @@
 How to install.
 
 - Install python 3.10 (https://www.python.org/downloads/)
-- 
+  
 - Clonar repositorio -> 
 	git clone https://github.com/ac1881/fetch-test.git
   
