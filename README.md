@@ -14,4 +14,6 @@ How to install.
 
 - Run Server:
 	python3 app.py
+	or
+	py app.py
 
