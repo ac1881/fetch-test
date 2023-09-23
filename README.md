@@ -9,9 +9,9 @@ How to install.
 
 - Install python 3.10 (https://www.python.org/downloads/) -> 
 
-- Run:
+- Installar librerial:
 	pip install requirements.txt
 
-- Run:
+- Run Server:
 	python3 app.py
 
