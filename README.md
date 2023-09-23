@@ -12,7 +12,7 @@ How to install.
 - Installar librerial: <br />
 	pip install -r requirements.txt
 
-- Run Server:
+- Run Server: <br />
 	python3 app.py <br />
 	or <br />
 	py app.py 
