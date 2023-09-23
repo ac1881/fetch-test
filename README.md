@@ -10,7 +10,7 @@ How to install.
 	git clone https://github.com/ac1881/fetch-test.git
   
 - Installar librerial:
-	pip install requirements.txt
+	pip install -r requirements.txt
 
 - Run Server:
 	python3 app.py
